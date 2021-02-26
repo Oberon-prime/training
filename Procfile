@@ -1,1 +1,1 @@
-worker: python-3.8.6 fit-train.py
+worker: python fit_train.py
