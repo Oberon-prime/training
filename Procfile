@@ -1,1 +1,1 @@
-worker: python fit_train.py
+worker: python3 fit_train.py
